@@ -1,0 +1,7 @@
+﻿1. My Computer --> System Properties --> Advanced system setting --> Environment Variables --> System Variables --> Path --> Edit: C:\Program Files\Java\jdk1.8.0_05\bin
+
+2. File Explorer --> Left shift + right button of the mouse --> Open new command prompt window here
+
+3. javac _06_SumTwoNumbers.java
+
+4. java _06_SumTwoNumbers.java
