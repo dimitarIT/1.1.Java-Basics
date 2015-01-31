@@ -6,5 +6,6 @@ public class _03_PrintHometown {
 	public static void main(String[] args) {
 		String homeTownn = "Pomorie";
 		System.out.println("My hometown is " + homeTownn + "!");
+		//test
 	}
 }
